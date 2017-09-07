@@ -1,7 +1,10 @@
 # php7-ext-trie-filter
+
+```
 php7 版本的敏感词过滤
-
-
+官方链接：
+https://github.com/wulijun/php-ext-trie-filter
+```
 参考：
 https://yq.aliyun.com/articles/59016
 
