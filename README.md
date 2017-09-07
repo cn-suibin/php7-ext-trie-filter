@@ -1,6 +1,7 @@
 # php7-ext-trie-filter
-
-
+php7 版本的敏感词过滤
+参考：
+https://yq.aliyun.com/articles/59016
 
 ```
 /* PHP5
