@@ -43,8 +43,8 @@ php extension for spam word filter based on Double-Array Trie tree, it can detec
 
 ## 升级历史
 
-### 2013-06-23
-trie_filter_search_all，一次返回所有的命中词;修复内存泄露
+### 2017-9-7
+这个是PHP7版本的。
 
 ## 依赖库
 
