@@ -1,6 +1,6 @@
 # php7-ext-trie-filter
 ### libdatrie 官方代码没有支持PHP7，所以这个项目本人试验过，无效。
-### 有效办法,https://github.com/wangyupeng/php-word-filter
+### 有效办法,以下忽略不用看了,https://github.com/wangyupeng/php-word-filter
 
 ```
 php7 版本的敏感词过滤
